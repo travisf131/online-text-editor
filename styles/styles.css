@@ -1,0 +1,48 @@
+﻿textarea {
+  width: 100px;
+  height: 360px;
+}
+
+select {
+  width: 150px;
+}
+
+#form1 {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+#labels {
+  padding-top: 35px;
+  margin-left: 210px;
+}
+
+.btn_SaveAs {
+  margin-right: 175px;
+}
+
+body {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  background-color: darkgoldenrod;
+}
+
+#title {
+  padding-top: 10px;
+  font-size: 46px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.userFeedback {
+  padding-top: 10px;
+  font-size: 28px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+#dropdownInfo {
+  margin-right: 25px;
+}
